@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\RomaTasks\RomaTasks\bin\Debug\RomaTasks.exe.config
+c:\users\user\documents\visual studio 2015\Projects\RomaTasks\RomaTasks\bin\Debug\RomaTasks.exe
+c:\users\user\documents\visual studio 2015\Projects\RomaTasks\RomaTasks\bin\Debug\RomaTasks.pdb
+c:\users\user\documents\visual studio 2015\Projects\RomaTasks\RomaTasks\obj\Debug\RomaTasks.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\RomaTasks\RomaTasks\obj\Debug\RomaTasks.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\RomaTasks\RomaTasks\obj\Debug\RomaTasks.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\RomaTasks\RomaTasks\obj\Debug\RomaTasks.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\RomaTasks\RomaTasks\obj\Debug\RomaTasks.exe
+c:\users\user\documents\visual studio 2015\Projects\RomaTasks\RomaTasks\obj\Debug\RomaTasks.pdb
